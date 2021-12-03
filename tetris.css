@@ -1,0 +1,21 @@
+body{
+    background: #202028;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align:center;
+}
+canvas{
+    border: 2px solid white;
+}
+
+img{
+    color: #202028;
+}
+
+#welcome,#scorebox{
+     display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
